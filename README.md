@@ -1,5 +1,8 @@
 # Data Copilot MVP - Intelligent Natural Language to SQL System
 
+<img width="1846" height="853" alt="image" src="https://github.com/user-attachments/assets/b498552d-149e-4344-bb7d-f9c508c3276a" />
+
+
 ## 🎯 Vision Statement
 
 **Transform business conversations into data insights instantly.**
