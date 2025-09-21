@@ -235,7 +235,7 @@ python start_frontend.py
 
 ## 🔮 Future Vision
 
-### Phase 1: Current MVP
+### Phase 1: Current MVP ( not completely functional)
 - Single database (SQLite)
 - 6-agent workflow
 - Basic business rules
