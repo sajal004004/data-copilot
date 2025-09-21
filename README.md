@@ -275,3 +275,7 @@ python start_frontend.py
 4. **Business-Focused**: Generates insights, not just queries
 5. **Self-Improving**: Gets smarter with every interaction
 
+## AI tools used
+- Gemini 2.5 pro for brainstorming and ideation
+- Claude Sonnet 4 inside github for coding
+
