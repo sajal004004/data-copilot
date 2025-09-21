@@ -1,0 +1,33 @@
+# Core Framework
+fastapi
+uvicorn[standard]
+streamlit
+pydantic
+python-multipart
+
+# LangGraph & AI
+langgraph
+langchain
+langchain-openai
+langchain-community
+openai
+
+# Database & Vector Store
+sqlparse
+numpy
+pandas
+sentence-transformers
+chromadb
+
+# Additional utilities
+python-dotenv
+httpx
+aiofiles
+Pillow
+plotly
+
+# Development & Testing
+pytest
+pytest-asyncio
+black
+isort
